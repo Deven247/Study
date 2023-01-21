@@ -1,0 +1,13 @@
+cd 
+ls
+ls -a :- Shows all the files including hidden ones
+git init :- To initialise the repository
+git add file name :- This command is use to add files inside staging area
+git add . :- This command is use to add all the files indside staging area 
+git commit -m "comments"
+git status
+git diff
+git log
+git checkout filename :- This command rollback  all the changes if file is not commited
+git remote add origin urlFromGitRepo
+git push -u origin master
